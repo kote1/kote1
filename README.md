@@ -1,15 +1,15 @@
 ### Hi there 👋
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=#)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kote1)
 </div>
 ___
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=#&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kote1&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
    <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=#&layout=compact"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kote1&layout=compact"/>
    </td>
   </tr>
 </table> 
